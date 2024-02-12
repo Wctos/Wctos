@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Wctos
+- 👋 Hi, I’m @Valeria Sanguina
 - 👀 I’m interested in Porgramming and cyber security
 - 🌱 I’m currently learning Python programming
 - 💞️ I’m looking to collaborate on someone who can help me with python
-- 📫 You can contact me on discord - wctos.0
+- 📫 You can contact me on discord - valeriaa_s
